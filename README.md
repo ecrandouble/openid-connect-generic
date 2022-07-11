@@ -1,13 +1,13 @@
 # OpenID Connect Generic Client #
-**Contributors:** [daggerhart](https://profiles.wordpress.org/daggerhart/), [tnolte](https://profiles.wordpress.org/tnolte/)  
-**Donate link:** http://www.daggerhart.com/  
-**Tags:** security, login, oauth2, openidconnect, apps, authentication, autologin, sso  
-**Requires at least:** 4.9  
-**Tested up to:** 5.9.2  
-**Stable tag:** 3.9.0  
-**Requires PHP:** 7.2  
-**License:** GPLv2 or later  
-**License URI:** http://www.gnu.org/licenses/gpl-2.0.html  
+**Contributors:** [daggerhart](https://profiles.wordpress.org/daggerhart/), [tnolte](https://profiles.wordpress.org/tnolte/)
+**Donate link:** http://www.daggerhart.com/
+**Tags:** security, login, oauth2, openidconnect, apps, authentication, autologin, sso
+**Requires at least:** 4.9
+**Tested up to:** 5.9.2
+**Stable tag:** 3.9.1
+**Requires PHP:** 7.2
+**License:** GPLv2 or later
+**License URI:** http://www.gnu.org/licenses/gpl-2.0.html
 
 A simple client that provides SSO or opt-in authentication against a generic OAuth2 Server implementation.
 
@@ -50,6 +50,10 @@ On the settings page for this plugin (Dashboard > Settings > OpenID Connect Gene
 
 
 ## Changelog ##
+
+### 3.9.1 ###
+
+* Update composer/installer dependency from ~1.0 to ^2.0
 
 ### 3.9.0 ###
 
