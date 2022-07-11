@@ -1,5 +1,9 @@
 # OpenId Connect Generic Changelog
 
+3.9.1
+
+ - Update composer/installer dependency from 1.0 to 2.0
+
 3.9.0
 
 - Feature: @matchaxnb - Added support for additional configuration constants.
